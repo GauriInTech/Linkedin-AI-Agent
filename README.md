@@ -72,7 +72,8 @@ Through this project I explored:
 * integrating AI tools with social media platforms
 * designing automated content pipelines
 
-
+#screenshots
+ ![Image1](image_url)
 
 
 
