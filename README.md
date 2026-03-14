@@ -73,7 +73,7 @@ Through this project I explored:
 * designing automated content pipelines
 
 #screenshots
- ![Image1](https://github.com/GauriInTech/Linkedin-AI-Agent.git))
+ ![Image1](https://github.com/GauriInTech/Linkedin-AI-Agent.git)
 
 
 
