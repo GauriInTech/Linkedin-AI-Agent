@@ -72,8 +72,7 @@ Through this project I explored:
 * integrating AI tools with social media platforms
 * designing automated content pipelines
 
-#screenshots
- (https://github.com/GauriInTech/Linkedin-AI-Agent.git)
+
 
 
 
